@@ -82,5 +82,7 @@
   "giftHint": "",
   "mapImage": "",
   "ogImage": "images/og.jpg",
-  "ogFrom": "uploads/3882f030577c.jpg"
+  "ogFrom": "uploads/3882f030577c.jpg",
+  "autoScroll": 1,
+  "autoScrollSpeed": 50
 }
